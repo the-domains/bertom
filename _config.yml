@@ -1,7 +1,7 @@
 name: bertom
 favicon: null
-layout_spectrum: 0.24655820685438812
-typography_spectrum: 0.36787809524685144
+layout_spectrum: 0.75138
+typography_spectrum: 0.87091
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.23301203455775976
-  lightness: 0.7428123347926885
-  saturation: 0.21010371972806752
-  rhythmicContrast: 0.33273883699439466
+    - '#000000'
+    - '#fffff7'
+    - '#e5cfc4'
+    - '#bda59b'
+    - '#95786a'
+  brandStrength: 1
+  lightness: 0.125
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
