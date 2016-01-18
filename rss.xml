@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[bertom]]></title>
         <description><![CDATA[bertom]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bertom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 11:50:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 11:50:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bertom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined7af514eb-db7f-4ddd-be00-47b1852810dc/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a7a9975-081b-4a48-a6ad-6073483e2f94.jpg">]]></description>
+            <link>https://thegrid.ai/bertom/9ab9dc84-6ee6-4fe4-aac0-a5d789126ca6/index.html</link>
+            <guid isPermaLink="false">9ab9dc84-6ee6-4fe4-aac0-a5d789126ca6</guid>
+            <pubDate>Mon, 18 Jan 2016 11:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bert's website. Very cool, very nice.</p>]]></description>
+            <link>https://thegrid.ai/bertom/7af514eb-db7f-4ddd-be00-47b1852810dc/index.html</link>
             <guid isPermaLink="false">7af514eb-db7f-4ddd-be00-47b1852810dc</guid>
             <pubDate>Mon, 18 Jan 2016 11:42:17 GMT</pubDate>
         </item>
